@@ -5,6 +5,6 @@ This project is perfect for beginners who want to practice frontend web developm
 
 Features
 - Clean and responsive UI  
-- Basic arithmetic operations (➕ ➖ ✖ ➗)  
+- Basic arithmetic operations   
 - Easy to understand code structure  
 - Beginner-friendly project  
